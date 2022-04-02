@@ -56,9 +56,15 @@ div{
 p{
 	font-size: 2rem;
 	font-family: monospace;
-	margin-bottom: 100px;
+	margin-bottom: 30px;
 }
 div{
 	font-size: 1.5em;
 	font-style: italic;
+}
+p1{
+	display: block;
+color: black;
+font-size: medium;
+margin-block-end: 100px;
 }
